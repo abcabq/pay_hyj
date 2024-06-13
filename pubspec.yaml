@@ -1,6 +1,6 @@
 name: pay_hyj
 description: A powerful Flutter plugin allowing developers to auth/pay with natvie Android & iOS Pay SDKs.
-version: 1.0.0
+version: 1.1.1
 homepage: https://github.com/abcabq/pay_hyj
 repository: https://github.com/abcabq/pay_hyj.git
 issue_tracker: https://github.com/abcabq/pay_hyj/issues
